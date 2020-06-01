@@ -1,2 +1,3 @@
 rootProject.name='Unsplash api android'
 include ':app'
+include ':unsplash'
